@@ -59,16 +59,4 @@
 
 4. README.md – project documentation
 
- How to Use
-
-1. Download the .pbix file and open in Power BI Desktop.
-
-2. Use the filters to explore performance across different demographics.
-
-3. Refer to the presentation slides for summarized insights.
-
-👤 Author
-
-Varun Singh
-📍 BBA Student | Aspiring Data Analyst | Skilled in Power BI, SQL, Python, and Excel
-🔗 www.linkedin.com/in/varunsingh-analytics
+ 
