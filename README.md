@@ -10,7 +10,7 @@
   (CPA   & CPM) across different age groups and gender segments, enabling data-driven decisions 
   to optimize ad spend and targeting strategies.
 
- The dashboard was built using DAX in Power BI, with additional data cleaning and transformation done in Excel/Python.
+
 
 # Business Objectives
 
